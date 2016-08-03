@@ -294,3 +294,5 @@ INT* GetClientSocketId(T_TcpClient *ptTcpClient)
 
     return (INT*)&ptTcpClient->tClientSocket;
 }
+
+
